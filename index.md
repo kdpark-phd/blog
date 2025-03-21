@@ -2,8 +2,6 @@
 
 안녕하세요 반갑습니다.
 
----
-
 ## Education
 
 - 2012\.03 - 2019.02  Creative IT Engineering, POSTECH
